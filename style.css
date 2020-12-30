@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: #abf2f5;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+#mountains {
+    width: 600px;
+    height: 400px;
+}
+
+#trees {
+    width: 600px;
+    height:400px
+}
